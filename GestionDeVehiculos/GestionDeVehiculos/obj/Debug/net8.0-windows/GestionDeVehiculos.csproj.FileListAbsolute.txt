@@ -1,0 +1,16 @@
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\bin\Debug\net8.0-windows\GestionDeVehiculos.exe
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\bin\Debug\net8.0-windows\GestionDeVehiculos.deps.json
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\bin\Debug\net8.0-windows\GestionDeVehiculos.runtimeconfig.json
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\bin\Debug\net8.0-windows\GestionDeVehiculos.dll
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\bin\Debug\net8.0-windows\GestionDeVehiculos.pdb
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\net8.0-windows\GestionDeVehiculos.Form1.resources
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\net8.0-windows\GestionDeVehiculos.csproj.GenerateResource.cache
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\net8.0-windows\GestionDeVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\net8.0-windows\GestionDeVehiculos.AssemblyInfoInputs.cache
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\net8.0-windows\GestionDeVehiculos.AssemblyInfo.cs
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\net8.0-windows\GestionDeVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\net8.0-windows\GestionDeVehiculos.dll
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\net8.0-windows\refint\GestionDeVehiculos.dll
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\net8.0-windows\GestionDeVehiculos.pdb
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\net8.0-windows\GestionDeVehiculos.genruntimeconfig.cache
+C:\Users\David Reyes\source\repos\GestionDeVehiculos\GestionDeVehiculos\obj\Debug\net8.0-windows\ref\GestionDeVehiculos.dll
